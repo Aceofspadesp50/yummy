@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-yummylive-dev-100853-authRole",
+      "UnauthRoleArn": "arn:aws:iam::076756187427:role/amplify-yummylive-dev-100853-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::076756187427:role/amplify-yummylive-dev-100853-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-yummylive-dev-100853-deployment",
+      "UnauthRoleName": "amplify-yummylive-dev-100853-unauthRole",
+      "StackName": "amplify-yummylive-dev-100853",
+      "StackId": "arn:aws:cloudformation:us-east-1:076756187427:stack/amplify-yummylive-dev-100853/b7d50050-f756-11eb-a3a9-120346a4bf23",
+      "AmplifyAppId": "d3dv40fsaq1gid"
+    },
+    "categories": {
+      "auth": {
+        "yummylive184c20b2": {}
+      }
+    }
+  }
+}
